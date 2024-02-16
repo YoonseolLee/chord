@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.top-column {
+  height: 50px;
+  border-bottom: 1px solid black;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Finger Paint", cursive;
+}
+
+.review {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.logo {
+  margin-top: 10px;
+  font-size: 22px;
+}
+
+.login {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+#chord-big-logo {
+  display: flex;
+  justify-content: center;
+}
+
+#record-img {
+  display: flex;
+  justify-content: center;
+}
